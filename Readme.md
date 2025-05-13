@@ -56,13 +56,13 @@ This setup helps showcase how AWS monitoring and alerting tools can be used to m
 
 ## 📸 Screenshots
 
-- `screenshots/beforespike.png`  
+- ![Before CPU Spike](screenshots/beforess.png)  
   **[Before CPU Spike]** – Shows EC2 instance with idle CPU (~0%).
 
-- `screenshots/after_cpu_spike.png`  
+- ![After CPU Spike](screenshots/afterspike.png)  
   **[After CPU Spike]** – Shows CPU usage spiked above 50% after running the script.
 
-- `screenshots/sns_email_alert.png`  
+- `![Email Alert CPU Spike](screenshots/email.png)
   **[Email Alert]** – Screenshot of the email received when the alarm triggered via SNS.
 
 ---
@@ -88,8 +88,8 @@ This setup helps showcase how AWS monitoring and alerting tools can be used to m
 ## 👤 Author
 
 **Mohit Dushyant Matte**  
-[LinkedIn](https://linkedin.com/in/mohitmatte)  
-[Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/mohit-matte-a6496a240/)  
+[Email](mailto:mattemohit2002@gmail.com)
 
 ---
 
